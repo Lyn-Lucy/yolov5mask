@@ -1,0 +1,26 @@
+<annotation>
+	<folder>set7</folder>
+	<filename>18s50010p60n147o750p.jpg</filename>
+	<path>G:\MaskDetect\datasets\set7\18s50010p60n147o750p.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>150</ymin>
+			<xmax>381</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>set4</folder>
+	<filename>006aV5z7ly1get45jah7uj30u0190tlu.jpg</filename>
+	<path>G:\MaskDetect\datasets\set4\006aV5z7ly1get45jah7uj30u0190tlu.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>440</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nomask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>149</xmin>
+			<ymin>105</ymin>
+			<xmax>305</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>
