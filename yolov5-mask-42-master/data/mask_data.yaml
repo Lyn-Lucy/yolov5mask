@@ -2,8 +2,8 @@
 
 
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
-train: ./data/image/train
-val: ./data/image/val
+train: ./yolov5mask/yolov5-mask-42-master/data/image/train
+val: ./yolov5mask/yolov5-mask-42-master/data/image/val
 
 # number of classes
 nc: 2
